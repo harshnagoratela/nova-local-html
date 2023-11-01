@@ -1,0 +1,2378 @@
+.span {
+  color: var(--color);
+}
+.contact {
+  position: absolute;
+  height: 10%;
+  width: 11.71%;
+  top: 30%;
+  left: 42.46%;
+  font-size: var(--font-size-lg);
+  line-height: 102.8%;
+  font-weight: 900;
+  font-family: var(--font-work-sans);
+  display: inline-block;
+}
+.layer-1-icon {
+  position: absolute;
+  height: 36.36%;
+  width: 25.86%;
+  top: 18.79%;
+  right: 68.39%;
+  bottom: 44.85%;
+  left: 5.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div {
+  height: 6.97%;
+  width: 8.99%;
+  top: 40.91%;
+  left: 42.46%;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  font-family: var(--font-saira);
+}
+.company-all-rights,
+.div,
+.emailcompanycom {
+  position: absolute;
+  display: inline-block;
+}
+.emailcompanycom {
+  height: 6.97%;
+  width: 20.63%;
+  top: 51.52%;
+  left: 42.46%;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  font-family: var(--font-saira);
+}
+.company-all-rights {
+  height: 5.45%;
+  width: 15.14%;
+  top: 79.7%;
+  left: 7.28%;
+  line-height: 154.5%;
+  font-weight: 300;
+  transform: rotate(0.03deg);
+  transform-origin: 0 0;
+}
+.privacy {
+  text-decoration: underline;
+}
+.privacy-l-tcs-container,
+.website-by-company-container {
+  position: absolute;
+  height: 5.45%;
+  width: 6.22%;
+  top: 79.7%;
+  left: 42.46%;
+  line-height: 154.5%;
+  font-weight: 300;
+  display: inline-block;
+  transform: rotate(0.03deg);
+  transform-origin: 0 0;
+}
+.website-by-company-container {
+  width: 10.09%;
+  left: 67.79%;
+}
+.layer-1-icon1,
+.layer-1-icon2 {
+  position: absolute;
+  height: 30%;
+  width: 6.55%;
+  top: 27.58%;
+  right: 24.4%;
+  bottom: 42.42%;
+  left: 69.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer-1-icon2 {
+  height: 16.06%;
+  width: 8.53%;
+  top: 36.06%;
+  right: 8.33%;
+  bottom: 47.88%;
+  left: 83.13%;
+  object-fit: cover;
+}
+.footer1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--body);
+}
+.footer {
+  position: absolute;
+  top: 10929px;
+  left: 1px;
+  width: 1512px;
+  height: 330px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
+.section-contact-child {
+  position: absolute;
+  height: 2.89%;
+  width: 15.84%;
+  top: 3.03%;
+  right: 60.53%;
+  bottom: 94.08%;
+  left: 23.63%;
+  background-color: var(--color-lightblue);
+}
+.span1 {
+  color: var(--color-slategray);
+}
+.get-in-touch-container {
+  height: 7.76%;
+  width: 39.95%;
+  top: 0;
+  left: 3.94%;
+  letter-spacing: 0.01em;
+  line-height: 112.8%;
+  font-weight: 900;
+}
+.email,
+.follow,
+.get-in-touch-container,
+.phone,
+.ut-enim-ad {
+  position: absolute;
+  display: inline-block;
+}
+.ut-enim-ad {
+  height: 12.01%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  text-align: center;
+}
+.email,
+.follow,
+.phone {
+  height: 6.72%;
+  width: 72.77%;
+  top: 28.09%;
+  left: 3.53%;
+  line-height: 102.8%;
+  font-weight: 900;
+  font-family: var(--font-work-sans);
+}
+.email,
+.follow {
+  width: 22.18%;
+  top: 44.38%;
+}
+.follow {
+  width: 30.92%;
+  top: 60.87%;
+}
+.frame-child,
+.frame-item {
+  position: absolute;
+  height: 0.41%;
+  width: 94.12%;
+  top: 39.29%;
+  right: 2.02%;
+  bottom: 60.3%;
+  left: 3.87%;
+  border-top: 2px solid var(--color);
+  box-sizing: border-box;
+}
+.frame-item {
+  top: 55.78%;
+  bottom: 43.81%;
+}
+.div1,
+.infonovagmailcomau {
+  position: absolute;
+  height: 4.68%;
+  width: 22.86%;
+  top: 28.71%;
+  left: 36.81%;
+  font-size: var(--font-size-mid);
+  font-weight: 500;
+  display: inline-block;
+}
+.infonovagmailcomau {
+  width: 34.62%;
+  top: 44.99%;
+}
+.frame-inner {
+  position: absolute;
+  height: 4.11%;
+  width: 19.93%;
+  top: 95.89%;
+  right: 43.26%;
+  bottom: 0;
+  left: 36.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ut-enim-ad-minim-veniam-quis-parent {
+  position: absolute;
+  top: 97px;
+  left: 0;
+  width: 595px;
+  height: 491.2px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-saira);
+}
+.vector-icon {
+  position: absolute;
+  height: 91.58%;
+  width: 44.37%;
+  top: 8.42%;
+  right: 0;
+  bottom: 0;
+  left: 55.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-contact {
+  position: absolute;
+  top: 10381px;
+  left: 419px;
+  width: 1244px;
+  height: 760px;
+  text-align: center;
+}
+.section-whatsincluded-child {
+  position: absolute;
+  height: 76.35%;
+  width: 89.22%;
+  top: 0;
+  right: 0;
+  bottom: 23.65%;
+  left: 10.78%;
+  background-color: var(--color);
+}
+.section-whatsincluded-item {
+  position: absolute;
+  height: 3.23%;
+  width: 15.33%;
+  top: 21.73%;
+  right: 29.55%;
+  bottom: 75.04%;
+  left: 55.13%;
+  background-color: var(--color-lightblue);
+}
+.all-attendees-get,
+.whats-included {
+  position: absolute;
+  display: inline-block;
+}
+.whats-included {
+  height: 8.66%;
+  width: 28.96%;
+  top: 18.35%;
+  left: 41.49%;
+  letter-spacing: 0.01em;
+  line-height: 112.8%;
+  font-weight: 900;
+}
+.all-attendees-get {
+  height: 19.88%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.breakfast-lunch-and {
+  margin: 0;
+}
+.breakfast-lunch-and-container {
+  position: absolute;
+  height: 100%;
+  width: 95.35%;
+  top: 0;
+  left: 4.65%;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.ellipse-div,
+.frame-child1,
+.frame-child2,
+.frame-child3 {
+  position: absolute;
+  height: 4.76%;
+  width: 1.47%;
+  top: 7.14%;
+  right: 98.53%;
+  bottom: 88.1%;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+}
+.frame-child1,
+.frame-child2,
+.frame-child3 {
+  top: 27.78%;
+  bottom: 67.46%;
+}
+.frame-child2,
+.frame-child3 {
+  top: 65.08%;
+  bottom: 30.16%;
+}
+.frame-child3 {
+  top: 87.3%;
+  bottom: 7.94%;
+}
+.breakfast-lunch-and-snacks-b-parent {
+  position: absolute;
+  top: 40px;
+  left: 133px;
+  width: 409px;
+  height: 126px;
+  text-align: left;
+}
+.all-attendees-get-these-benefi-parent {
+  position: absolute;
+  top: 232px;
+  left: 614px;
+  width: 692px;
+  height: 166px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-saira);
+}
+.section-whatsincluded-inner {
+  position: absolute;
+  height: 100%;
+  width: 42.02%;
+  top: 0;
+  right: 46.1%;
+  bottom: 0;
+  left: 11.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-whatsincluded {
+  position: absolute;
+  top: 9764px;
+  left: -204px;
+  width: 1716px;
+  height: 681.1px;
+  text-align: center;
+}
+.section-registernow-child {
+  position: absolute;
+  height: 3.61%;
+  width: 21.97%;
+  top: 3.77%;
+  right: 18.64%;
+  bottom: 92.62%;
+  left: 59.39%;
+  background-color: var(--color-lightblue);
+}
+.experience-the-conference {
+  position: absolute;
+  height: 14.1%;
+  width: 100%;
+  top: 15.9%;
+  left: 0;
+  font-weight: 300;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.register-now {
+  position: absolute;
+  height: 9.67%;
+  width: 71.82%;
+  top: 0;
+  left: 14.16%;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.01em;
+  line-height: 112.8%;
+  font-weight: 900;
+  display: inline-block;
+}
+.rectangle-div {
+  position: absolute;
+  height: 100%;
+  width: 47.56%;
+  top: 0;
+  right: 52.44%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 19px rgba(142, 142, 142, 0.25);
+}
+.frame-child4,
+.frame-child5 {
+  position: absolute;
+  height: 5.98%;
+  width: 16.12%;
+  top: 10.87%;
+  right: 56.51%;
+  bottom: 83.15%;
+  left: 27.36%;
+  background-color: var(--color-lightblue);
+}
+.frame-child5 {
+  height: 100%;
+  width: 47.56%;
+  top: 0;
+  right: 0.16%;
+  bottom: 0;
+  left: 52.28%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 19px rgba(142, 142, 142, 0.25);
+}
+.frame-child6 {
+  position: absolute;
+  height: 5.98%;
+  width: 16.12%;
+  top: 10.87%;
+  right: 4.23%;
+  bottom: 83.15%;
+  left: 79.64%;
+  background-color: var(--color-lightblue);
+}
+.may-4-5-2024-container {
+  position: absolute;
+  height: 11.96%;
+  width: 47.56%;
+  top: 8.97%;
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+}
+.frame-child7,
+.line-div {
+  position: absolute;
+  height: 0.27%;
+  width: 47.72%;
+  top: 25.68%;
+  right: 52.36%;
+  bottom: 74.05%;
+  left: -0.08%;
+  border-top: 1px dashed var(--color);
+  box-sizing: border-box;
+}
+.frame-child7 {
+  right: 0.08%;
+  left: 52.2%;
+}
+.frame-child8 {
+  position: absolute;
+  height: 472.58%;
+  width: 21.16%;
+  top: 0;
+  right: -21.16%;
+  bottom: -372.58%;
+  left: 100%;
+  background-color: var(--color);
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.group-icon {
+  position: absolute;
+  height: 79.77%;
+  width: 12.35%;
+  top: 15.03%;
+  right: -0.19%;
+  bottom: 5.2%;
+  left: 87.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent {
+  position: absolute;
+  top: 22px;
+  left: 68px;
+  width: 157.1px;
+  height: 17.3px;
+}
+.rectangle-container,
+.rectangle-group {
+  position: absolute;
+  top: 306px;
+  left: 0;
+  width: 293px;
+  height: 62px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+}
+.rectangle-container {
+  left: 321px;
+}
+.may-4-5-2024-container1 {
+  position: absolute;
+  height: 11.96%;
+  width: 47.56%;
+  top: 8.97%;
+  left: 52.28%;
+  font-weight: 900;
+  display: inline-block;
+}
+.registration-for1 {
+  line-height: 115.8%;
+}
+.blank-line4 {
+  font-weight: 600;
+}
+.blank-line2 {
+  margin: 0;
+  color: var(--body);
+}
+.fellows-allied-health {
+  line-height: 119.8%;
+}
+.registration-for-fellows-container {
+  position: absolute;
+  height: 45.92%;
+  width: 36.48%;
+  top: 33.42%;
+  left: 57.82%;
+  font-size: var(--font-size-base);
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  display: inline-block;
+  color: var(--color);
+}
+.registration-for3 {
+  margin: 0;
+  font-weight: 800;
+}
+.registration-for-specialist-container {
+  position: absolute;
+  height: 24.73%;
+  width: 30.62%;
+  top: 33.42%;
+  left: 8.47%;
+  font-size: var(--font-size-base);
+  line-height: 115.8%;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--color);
+}
+.rectangle-parent {
+  position: absolute;
+  top: 242px;
+  left: 39px;
+  width: 614px;
+  height: 368px;
+  font-size: var(--font-size-11xl);
+}
+.section-registernow {
+  position: absolute;
+  top: 9043px;
+  left: 380px;
+  width: 692px;
+  height: 610px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.section-accommodation-child {
+  position: absolute;
+  height: 1.82%;
+  width: 32%;
+  top: 1.9%;
+  right: 44.82%;
+  bottom: 96.29%;
+  left: 23.18%;
+  background-color: var(--color-lightblue);
+}
+.weve-chosen-the {
+  position: absolute;
+  height: 8.66%;
+  width: 44.56%;
+  top: 8%;
+  left: 16.87%;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.section-accommodation-item {
+  position: absolute;
+  height: 20.55%;
+  width: 23.37%;
+  top: 27.15%;
+  right: 49.2%;
+  bottom: 52.3%;
+  left: 27.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.section-accommodation-child1,
+.section-accommodation-child2,
+.section-accommodation-inner {
+  position: absolute;
+  height: 21.7%;
+  width: 24.28%;
+  top: 26.9%;
+  right: 21.31%;
+  bottom: 51.39%;
+  left: 54.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.section-accommodation-child1,
+.section-accommodation-child2 {
+  height: 20.55%;
+  width: 23.37%;
+  top: 27.15%;
+  right: 76.63%;
+  bottom: 52.3%;
+  left: 0;
+}
+.section-accommodation-child2 {
+  width: 50.8%;
+  top: 58.51%;
+  right: 35.42%;
+  bottom: 20.94%;
+  left: 13.78%;
+}
+.accommodation {
+  position: absolute;
+  height: 4.87%;
+  width: 32%;
+  top: 0;
+  left: 23.18%;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.01em;
+  line-height: 112.8%;
+  font-weight: 900;
+  display: inline-block;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 57.44%;
+  width: 35.54%;
+  top: 42.56%;
+  right: 0;
+  bottom: 0;
+  left: 64.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.marina-ocena-views,
+.meriton-suites-southport,
+.woodroffe-hotel {
+  position: absolute;
+  height: 1.32%;
+  width: 23.5%;
+  top: 23.6%;
+  left: 0;
+  line-height: 121.3%;
+  font-weight: 900;
+  display: inline-block;
+}
+.marina-ocena-views,
+.meriton-suites-southport {
+  height: 100%;
+  width: 46.14%;
+  top: 0;
+}
+.meriton-suites-southport {
+  width: 45.89%;
+  left: 54.11%;
+  text-transform: uppercase;
+}
+.marina-ocena-views-parent {
+  position: absolute;
+  top: 286px;
+  left: 424px;
+  width: 791px;
+  height: 16px;
+}
+.como-crescent,
+.mantra-sharks {
+  position: absolute;
+  height: 1.32%;
+  width: 23.37%;
+  top: 54.63%;
+  left: 13.78%;
+  line-height: 121.3%;
+  font-weight: 900;
+  display: inline-block;
+}
+.como-crescent {
+  width: 23.63%;
+  left: 40.18%;
+}
+.section-accommodation {
+  position: absolute;
+  top: 7945px;
+  left: 140px;
+  width: 1553px;
+  height: 1211.8px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.section-team-child {
+  position: absolute;
+  height: 81.03%;
+  width: 95.05%;
+  top: 0;
+  right: 0;
+  bottom: 18.97%;
+  left: 4.95%;
+  background: linear-gradient(
+    -0.82deg,
+    rgba(142, 204, 223, 0.25),
+    rgba(142, 204, 223, 0)
+  );
+}
+.frame-child11 {
+  position: absolute;
+  height: 34.38%;
+  width: 29.23%;
+  top: 32.81%;
+  right: 0;
+  bottom: 32.81%;
+  left: 70.77%;
+  background-color: var(--color-lightblue);
+}
+.organisation-team {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 102.8%;
+  font-weight: 900;
+  display: inline-block;
+}
+.frame-div {
+  position: absolute;
+  top: 126px;
+  left: 577px;
+  width: 568px;
+  height: 64px;
+  font-size: var(--font-size-31xl);
+  color: var(--body);
+}
+.depositphotos-63726079-stock-p-icon,
+.section-team-item {
+  position: absolute;
+  height: 33.39%;
+  width: 22.45%;
+  top: 23.61%;
+  right: 35.56%;
+  bottom: 43%;
+  left: 41.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.depositphotos-63726079-stock-p-icon {
+  height: 117.17%;
+  width: 191.74%;
+  top: 0;
+  right: -91.74%;
+  bottom: -17.17%;
+  left: 0;
+}
+.group-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(1.01deg, #000, transparent);
+}
+.cardiac-nurse-educator {
+  position: absolute;
+  height: 8.08%;
+  width: 52.07%;
+  top: 90.66%;
+  left: 13.22%;
+  text-transform: uppercase;
+  font-weight: 300;
+  display: inline-block;
+}
+.depositphotos-63726079-stock-p-parent,
+.section-team-inner {
+  position: absolute;
+  height: 33.39%;
+  width: 22.45%;
+  top: 26.73%;
+  bottom: 39.88%;
+}
+.depositphotos-63726079-stock-p-parent {
+  right: 9.21%;
+  left: 68.34%;
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.25);
+  font-family: var(--font-saira);
+}
+.section-team-inner {
+  right: 61.9%;
+  left: 15.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.position-goes-here,
+.position-goes-here1 {
+  position: absolute;
+  height: 2.7%;
+  width: 11.69%;
+  top: 57%;
+  left: 18.61%;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.position-goes-here1 {
+  top: 53.96%;
+  left: 44.96%;
+}
+.dr-adam-north-container,
+.dr-nataly-wilson,
+.name-goes-here {
+  position: absolute;
+  height: 1.35%;
+  width: 15.03%;
+  top: 54.89%;
+  left: 71.3%;
+  font-size: var(--font-size-lg);
+  line-height: 121.3%;
+  font-weight: 900;
+  display: inline-block;
+}
+.dr-adam-north-container,
+.name-goes-here {
+  height: 1.85%;
+  top: 54.81%;
+  left: 18.61%;
+}
+.name-goes-here {
+  height: 2.28%;
+  width: 14.29%;
+  top: 51.77%;
+  left: 44.96%;
+}
+.path-icon,
+.section-team-child1 {
+  position: absolute;
+  height: 2.64%;
+  width: 0.99%;
+  top: 59.71%;
+  right: 38.82%;
+  bottom: 37.65%;
+  left: 60.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-team-child1 {
+  height: 33.39%;
+  width: 22.45%;
+  top: 63.49%;
+  right: 35.56%;
+  bottom: 3.12%;
+  left: 41.99%;
+  object-fit: cover;
+}
+.cardiac-nurse-educator1 {
+  position: absolute;
+  height: 8.08%;
+  width: 52.07%;
+  top: 90.66%;
+  left: 11.02%;
+  text-transform: uppercase;
+  font-weight: 300;
+  display: inline-block;
+}
+.depositphotos-63726079-stock-p-group,
+.section-team-child2 {
+  position: absolute;
+  height: 33.39%;
+  width: 22.45%;
+  top: 66.61%;
+  bottom: 0;
+}
+.depositphotos-63726079-stock-p-group {
+  right: 9.21%;
+  left: 68.34%;
+  box-shadow: 0 4px 7px rgba(0, 0, 0, 0.25);
+  font-family: var(--font-saira);
+}
+.section-team-child2 {
+  right: 61.9%;
+  left: 15.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.position-goes-here2,
+.position-goes-here3 {
+  position: absolute;
+  height: 2.7%;
+  width: 11.69%;
+  top: 96.88%;
+  left: 18.61%;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.position-goes-here3 {
+  top: 93.84%;
+  left: 44.96%;
+}
+.dr-adam-north-container1,
+.dr-nataly-wilson1,
+.name-goes-here1 {
+  position: absolute;
+  height: 1.35%;
+  width: 15.03%;
+  top: 94.77%;
+  left: 70.81%;
+  font-size: var(--font-size-lg);
+  line-height: 121.3%;
+  font-weight: 900;
+  display: inline-block;
+}
+.dr-adam-north-container1,
+.name-goes-here1 {
+  height: 1.85%;
+  top: 94.69%;
+  left: 18.61%;
+}
+.name-goes-here1 {
+  height: 2.28%;
+  width: 14.29%;
+  top: 91.65%;
+  left: 44.96%;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 45.49%;
+  width: 26.35%;
+  top: 17.57%;
+  right: 67.16%;
+  bottom: 36.94%;
+  left: 6.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-team {
+  position: absolute;
+  top: 6648px;
+  left: -105px;
+  width: 1617px;
+  height: 1186px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.section-sponsers-child {
+  position: absolute;
+  height: 6.08%;
+  width: 31.81%;
+  top: 19.89%;
+  right: 32.95%;
+  bottom: 74.03%;
+  left: 35.24%;
+  background-color: var(--color-lightblue);
+}
+.conference-sponsors {
+  position: absolute;
+  height: 33.7%;
+  width: 45.01%;
+  top: 0;
+  left: 29.21%;
+  font-size: var(--font-size-31xl);
+  line-height: 102.8%;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font-work-sans);
+  display: inline-block;
+  color: var(--body);
+}
+.diamond-sponsor,
+.gold-sponsor,
+.platinum-sponsor,
+.silver-sponsor {
+  position: absolute;
+  height: 15.75%;
+  width: 18.5%;
+  top: 84.25%;
+  left: 0;
+  display: inline-block;
+}
+.gold-sponsor,
+.platinum-sponsor,
+.silver-sponsor {
+  left: 28.69%;
+}
+.gold-sponsor,
+.silver-sponsor {
+  left: 55.3%;
+}
+.silver-sponsor {
+  left: 81.5%;
+}
+.gore-logo-positive-colour-1-10-icon,
+.gore-logo-positive-colour-1-10-icon1,
+.gore-logo-positive-colour-1-10-icon2,
+.gore-logo-positive-colour-1-10-icon3 {
+  position: absolute;
+  height: 16.02%;
+  width: 14.97%;
+  top: 61.05%;
+  right: 81.81%;
+  bottom: 22.93%;
+  left: 3.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gore-logo-positive-colour-1-10-icon1,
+.gore-logo-positive-colour-1-10-icon2,
+.gore-logo-positive-colour-1-10-icon3 {
+  right: 26.51%;
+  left: 58.52%;
+}
+.gore-logo-positive-colour-1-10-icon2,
+.gore-logo-positive-colour-1-10-icon3 {
+  right: 53.12%;
+  left: 31.91%;
+}
+.gore-logo-positive-colour-1-10-icon3 {
+  right: 0.31%;
+  left: 84.72%;
+}
+.section-sponsers {
+  position: absolute;
+  top: 6369px;
+  left: 271px;
+  width: 962px;
+  height: 362px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-saira);
+}
+.section-partners-child {
+  position: absolute;
+  height: 7.28%;
+  width: 32.01%;
+  top: 23.84%;
+  right: 33.79%;
+  bottom: 68.87%;
+  left: 34.21%;
+  background-color: var(--color-lightblue);
+}
+.conference-partners {
+  position: absolute;
+  height: 40.4%;
+  width: 45.29%;
+  top: 0;
+  left: 28.14%;
+  line-height: 102.8%;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+}
+.gold-coast-health-always-care-icon,
+.layer-1-icon3,
+.qld-gov-1024x334-1-icon {
+  position: absolute;
+  height: 23.84%;
+  width: 23.01%;
+  top: 66.56%;
+  right: 0;
+  bottom: 9.6%;
+  left: 76.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gold-coast-health-always-care-icon,
+.layer-1-icon3 {
+  height: 16.16%;
+  top: 74.5%;
+  right: 76.99%;
+  bottom: 9.34%;
+  left: 0;
+}
+.layer-1-icon3 {
+  height: 36.09%;
+  width: 9.31%;
+  top: 63.91%;
+  right: 45.82%;
+  bottom: 0;
+  left: 44.87%;
+}
+.section-partners {
+  position: absolute;
+  top: 5925px;
+  left: 283px;
+  width: 956px;
+  height: 302px;
+  text-align: center;
+}
+.section-venue-child {
+  position: absolute;
+  height: 85.53%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 14.47%;
+  left: 0;
+  background: linear-gradient(
+    -0.13deg,
+    rgba(142, 204, 223, 0.25),
+    rgba(142, 204, 223, 0)
+  );
+}
+.section-venue-item {
+  position: absolute;
+  height: 1.79%;
+  width: 24.6%;
+  top: 16.18%;
+  right: 67.26%;
+  bottom: 82.03%;
+  left: 8.13%;
+  background-color: var(--color-lightblue);
+}
+.parking,
+.venue,
+.venue-information {
+  position: absolute;
+  width: 28.64%;
+  line-height: 102.8%;
+  font-weight: 900;
+  display: inline-block;
+}
+.venue-information {
+  height: 9.92%;
+  top: 10.33%;
+  left: 7.28%;
+  font-size: var(--font-size-31xl);
+}
+.parking,
+.venue {
+  height: 2.68%;
+  top: 25.53%;
+  left: 50.99%;
+}
+.parking {
+  top: 43.74%;
+}
+.section-venue-inner {
+  position: absolute;
+  height: 36.99%;
+  width: 37.24%;
+  top: 24.72%;
+  right: 55.62%;
+  bottom: 38.29%;
+  left: 7.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.university-hospital {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--body);
+}
+.the-conference-will {
+  margin: 0;
+  font-weight: 300;
+}
+.university-hospital-the-container {
+  position: absolute;
+  height: 11.14%;
+  width: 38.1%;
+  top: 28.78%;
+  left: 50.99%;
+  display: inline-block;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-saira);
+}
+.parkwood-park-n {
+  font-size: var(--font-size-lg);
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: var(--font-saira);
+  color: var(--body);
+}
+.parkwood-tram-station {
+  color: inherit;
+}
+.free-parking-with {
+  font-weight: 300;
+}
+.parkwood-park-n-container {
+  position: absolute;
+  height: 9.92%;
+  width: 36.38%;
+  top: 49.19%;
+  left: 50.99%;
+  display: inline-block;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-saira);
+}
+.section-venue-child1,
+.section-venue-child2 {
+  position: absolute;
+  height: 0.16%;
+  width: 39.22%;
+  top: 28.86%;
+  right: 9.66%;
+  bottom: 70.98%;
+  left: 51.12%;
+  border-top: 2px solid var(--color);
+  box-sizing: border-box;
+}
+.section-venue-child2 {
+  top: 47.32%;
+  bottom: 52.52%;
+}
+.section-venue-child3 {
+  position: absolute;
+  height: 26.59%;
+  width: 40.87%;
+  top: 73.25%;
+  right: 51.85%;
+  bottom: 0.16%;
+  left: 7.28%;
+  border-radius: var(--br-xs);
+  background-color: var(--color);
+}
+.section-venue-child4 {
+  position: absolute;
+  height: 26.59%;
+  width: 24.15%;
+  top: 73.41%;
+  right: 68.58%;
+  bottom: 0;
+  left: 7.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child12,
+.section-venue-child5 {
+  position: absolute;
+  height: 26.59%;
+  width: 40.87%;
+  top: 73.25%;
+  right: 8.33%;
+  bottom: 0.16%;
+  left: 50.79%;
+  border-radius: var(--br-xs);
+  background-color: var(--color);
+}
+.frame-child12 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-181xl);
+  background-color: var(--color-white);
+}
+.frame-child13 {
+  position: absolute;
+  height: 79.77%;
+  width: 11.65%;
+  top: 19.08%;
+  right: -0.19%;
+  bottom: 1.16%;
+  left: 88.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.register-now3 {
+  position: absolute;
+  height: 100%;
+  width: 88.8%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-parent1 {
+  position: absolute;
+  top: 23.5px;
+  left: 37.9px;
+  width: 158px;
+  height: 17.3px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 1099px;
+  left: 428.1px;
+  width: 233.1px;
+  height: 65.4px;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+}
+.section-venue-child6 {
+  position: absolute;
+  height: 1.79%;
+  width: 12.96%;
+  top: 80.57%;
+  right: 58.73%;
+  bottom: 17.64%;
+  left: 28.31%;
+  background-color: var(--color-gray);
+}
+.registration-for-specialist-container1 {
+  position: absolute;
+  height: 7.4%;
+  width: 16.07%;
+  top: 80.49%;
+  left: 28.31%;
+  font-size: var(--font-size-6xl);
+  line-height: 115.8%;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+}
+.section-venue-child7 {
+  position: absolute;
+  height: 26.42%;
+  width: 40.87%;
+  top: 73.41%;
+  right: 8.33%;
+  bottom: 0.16%;
+  left: 50.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-venue-child8 {
+  position: absolute;
+  height: 1.79%;
+  width: 14.48%;
+  top: 79.11%;
+  right: 30.49%;
+  bottom: 19.11%;
+  left: 55.03%;
+  background-color: var(--color-gray);
+}
+.fellows-allied-health1 {
+  line-height: 119.8%;
+  color: var(--color-slategray);
+}
+.registration-for-fellows-container1 {
+  position: absolute;
+  height: 13.74%;
+  width: 32.8%;
+  top: 78.86%;
+  left: 56.22%;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+}
+.frame-child15 {
+  position: absolute;
+  height: 79.77%;
+  width: 11.64%;
+  top: 19.08%;
+  right: -0.25%;
+  bottom: 1.16%;
+  left: 88.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.register-now4 {
+  position: absolute;
+  height: 100%;
+  width: 88.74%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-parent2 {
+  position: absolute;
+  top: 23.5px;
+  left: 35.9px;
+  width: 158.1px;
+  height: 17.3px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 1107px;
+  left: 851px;
+  width: 233.1px;
+  height: 65.4px;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+}
+.layer-1-icon4 {
+  position: absolute;
+  height: 10.81%;
+  width: 8.8%;
+  top: 9.84%;
+  right: 8.33%;
+  bottom: 79.35%;
+  left: 82.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-venue {
+  position: absolute;
+  top: 4555px;
+  left: 0;
+  width: 1512px;
+  height: 1230px;
+  font-size: var(--font-size-11xl);
+}
+.section-program-child {
+  position: absolute;
+  height: 0.71%;
+  width: 19.18%;
+  top: 3.29%;
+  right: 63.56%;
+  bottom: 96.01%;
+  left: 17.26%;
+  background-color: var(--color-lightblue);
+}
+.industry-program {
+  position: absolute;
+  height: 3.93%;
+  width: 29.66%;
+  top: 0.97%;
+  left: 16.78%;
+  line-height: 102.8%;
+  font-weight: 900;
+  display: inline-block;
+  color: var(--body);
+}
+.company-will-feature-container {
+  position: absolute;
+  height: 4.06%;
+  width: 29.25%;
+  top: 4.9%;
+  left: 16.64%;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.frame-child16 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-181xl);
+  background-color: var(--color);
+}
+.frame-child17 {
+  position: absolute;
+  height: 81.18%;
+  width: 12.95%;
+  top: 18.82%;
+  right: -0.22%;
+  bottom: 0;
+  left: 87.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.learn-more {
+  position: absolute;
+  height: 100%;
+  width: 84.36%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-parent3 {
+  position: absolute;
+  top: 23px;
+  left: 31px;
+  width: 137.5px;
+  height: 17px;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 288px;
+  left: 243px;
+  width: 202px;
+  height: 65px;
+  font-size: var(--font-size-mid);
+}
+.section-program-item,
+.vector-icon3 {
+  position: absolute;
+  height: 34.74%;
+  width: 37.81%;
+  top: 65.26%;
+  right: 52.95%;
+  bottom: 0;
+  left: 9.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-program-item {
+  height: 12.53%;
+  width: 38.29%;
+  top: 0;
+  right: 0;
+  bottom: 87.47%;
+  left: 61.71%;
+  object-fit: cover;
+}
+.section-program {
+  position: absolute;
+  top: 4041px;
+  left: -135px;
+  width: 1460px;
+  height: 3104.9px;
+  color: var(--color-black);
+}
+.frame-child18,
+.section-highlight-child,
+.section-highlight-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.section-highlight-child {
+  background-color: var(--color);
+}
+.frame-child18,
+.section-highlight-item {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child18 {
+  width: 56.95%;
+  right: 43.05%;
+  object-fit: cover;
+}
+.frame-child19 {
+  position: absolute;
+  height: 5.99%;
+  width: 25.94%;
+  top: 19.35%;
+  right: 10.03%;
+  bottom: 74.66%;
+  left: 64.03%;
+  background-color: var(--color-lightblue);
+}
+.the-inaugural-nova-container {
+  position: absolute;
+  height: 22.34%;
+  width: 36.98%;
+  top: 49.32%;
+  left: 63.02%;
+  font-weight: 300;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.frame-child21 {
+  position: absolute;
+  height: 81.18%;
+  width: 10.82%;
+  top: 18.82%;
+  right: -0.18%;
+  bottom: 0;
+  left: 89.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.download-pdf {
+  position: absolute;
+  height: 100%;
+  width: 87.54%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-parent5 {
+  position: absolute;
+  top: 23px;
+  left: 31px;
+  width: 164.5px;
+  height: 17px;
+}
+.highlight-video,
+.rectangle-parent4 {
+  position: absolute;
+  top: 286px;
+  left: 685px;
+  width: 230px;
+  height: 65px;
+  font-size: var(--font-size-mid);
+}
+.highlight-video {
+  height: 40.87%;
+  width: 35.42%;
+  top: 1.91%;
+  left: 63.02%;
+  font-size: var(--font-size-31xl);
+  line-height: 102.8%;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+  color: var(--body);
+}
+.group-parent4 {
+  position: absolute;
+  top: 122px;
+  left: 212px;
+  width: 1087px;
+  height: 367px;
+}
+.section-highlight {
+  position: absolute;
+  top: 3285px;
+  left: 0;
+  width: 1512px;
+  height: 633px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.section-speakers-child {
+  position: absolute;
+  height: 2.83%;
+  width: 21.75%;
+  top: 2.7%;
+  right: 72.41%;
+  bottom: 94.48%;
+  left: 5.84%;
+  background-color: var(--color-lightblue);
+}
+.speakers {
+  position: absolute;
+  height: 8.22%;
+  width: 32.69%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-31xl);
+  line-height: 102.8%;
+  font-weight: 900;
+  text-align: center;
+  display: inline-block;
+}
+.newcastle {
+  font-weight: 500;
+}
+.mbbs-fracp-fcsanz-container {
+  height: 4.11%;
+  width: 21.01%;
+  left: 5.47%;
+  font-size: var(--font-size-smi);
+  color: var(--color-steelblue-100);
+}
+.bsc-mbbs-phd,
+.cardiac-nurse-educator2,
+.mbbs-fracp-fcsanz-container,
+.mddmfaccfescfscaifapsicf {
+  position: absolute;
+  top: 73.11%;
+  text-transform: uppercase;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.mddmfaccfescfscaifapsicf {
+  height: 5.14%;
+  width: 19.82%;
+  left: 54.51%;
+  font-size: var(--font-size-smi);
+  color: var(--color-steelblue-100);
+}
+.bsc-mbbs-phd,
+.cardiac-nurse-educator2 {
+  height: 4.11%;
+  font-weight: 300;
+}
+.bsc-mbbs-phd {
+  width: 21.3%;
+  left: 29.96%;
+  font-size: var(--font-size-smi);
+  color: var(--color-steelblue-100);
+}
+.cardiac-nurse-educator2 {
+  width: 13.98%;
+  left: 78.62%;
+}
+.prof-rohan-jayasinghe {
+  height: 3.73%;
+  width: 21.3%;
+  left: 5.55%;
+  text-transform: uppercase;
+}
+.dr-adam-wilson,
+.prof-dr-vivek,
+.prof-rohan-jayasinghe,
+.virag-vatsgotrie-kushwaha {
+  position: absolute;
+  top: 69.38%;
+  font-size: var(--font-size-lg);
+  line-height: 102.8%;
+  display: inline-block;
+}
+.virag-vatsgotrie-kushwaha {
+  height: 2.7%;
+  width: 21.3%;
+  left: 29.96%;
+  text-transform: uppercase;
+}
+.dr-adam-wilson,
+.prof-dr-vivek {
+  height: 3.73%;
+  width: 17.09%;
+}
+.prof-dr-vivek {
+  left: 54.29%;
+  text-transform: uppercase;
+}
+.dr-adam-wilson {
+  left: 78.62%;
+}
+.section-speakers-child1,
+.section-speakers-child2,
+.section-speakers-inner,
+.section-speakers-item {
+  position: absolute;
+  height: 46.51%;
+  width: 21.38%;
+  top: 18.37%;
+  right: 73.08%;
+  bottom: 35.11%;
+  left: 5.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.section-speakers-child1,
+.section-speakers-child2,
+.section-speakers-inner {
+  width: 21.3%;
+  right: 48.74%;
+  left: 29.96%;
+}
+.section-speakers-child1,
+.section-speakers-child2 {
+  right: 24.41%;
+  left: 54.29%;
+}
+.section-speakers-child2 {
+  width: 21.38%;
+  right: 0;
+  left: 78.62%;
+}
+.interventional-cardiologist-pr,
+.medical-director-,
+.senior-interventional-cardiolo {
+  position: absolute;
+  height: 4.11%;
+  width: 20.49%;
+  top: 79.28%;
+  left: 5.4%;
+  line-height: 143.9%;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.interventional-cardiologist-pr,
+.senior-interventional-cardiolo {
+  left: 54.29%;
+}
+.interventional-cardiologist-pr {
+  top: 77.22%;
+  left: 29.96%;
+}
+.full-speaker {
+  position: absolute;
+  height: 100%;
+  width: 94.27%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-parent6 {
+  position: absolute;
+  top: 761px;
+  left: 642px;
+  width: 157.1px;
+  height: 17.3px;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+}
+.section-speakers {
+  position: absolute;
+  top: 2384px;
+  left: 35px;
+  width: 1352px;
+  height: 778.3px;
+  font-size: var(--font-size-sm);
+}
+.section-mission-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(
+    -0.82deg,
+    rgba(142, 204, 223, 0.25),
+    rgba(142, 204, 223, 0)
+  );
+}
+.section-mission-inner,
+.section-mission-item {
+  position: absolute;
+  height: 1.7%;
+  width: 6.61%;
+  top: 78.25%;
+  right: 72.35%;
+  bottom: 20.05%;
+  left: 21.03%;
+  background-color: var(--color-lightblue);
+}
+.section-mission-inner {
+  width: 6.88%;
+  right: 30.49%;
+  left: 62.63%;
+}
+.academic-and-industry-container {
+  position: absolute;
+  height: 8.44%;
+  width: 40.94%;
+  top: 77.94%;
+  left: 50.86%;
+  line-height: 102.8%;
+  font-weight: 900;
+  display: inline-block;
+}
+.industry-leading-workshops {
+  font-weight: 500;
+  color: var(--body);
+}
+.am-6,
+.participate-in-industry-container {
+  position: absolute;
+  height: 55.56%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.am-6 {
+  height: 44.44%;
+  width: 70.26%;
+  top: 55.56%;
+  left: 14.99%;
+  font-size: 35px;
+  text-transform: lowercase;
+  font-weight: 800;
+  font-family: var(--font-work-sans);
+  color: var(--color);
+}
+.participate-in-industry-leadin-parent {
+  position: absolute;
+  top: 224px;
+  left: 548px;
+  width: 427px;
+  height: 108px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-saira);
+}
+.frame-child23,
+.frame-child24 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.frame-child23 {
+  width: 100%;
+  left: 0;
+  border-radius: 35px;
+  background-color: var(--color);
+}
+.frame-child24 {
+  width: 48.85%;
+  left: 51.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.our-purpose-is {
+  position: absolute;
+  height: 25.2%;
+  width: 33.1%;
+  top: 50.79%;
+  left: 7.75%;
+  display: inline-block;
+}
+.professor-rohan-jayasinghe {
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.professor-rohan-jayasinghe-container {
+  position: absolute;
+  height: 10.63%;
+  width: 33.1%;
+  top: 73.82%;
+  left: 7.75%;
+  display: inline-block;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 403px;
+  left: 110px;
+  width: 1278px;
+  height: 508px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  font-family: var(--font-saira);
+}
+.section-mission-child1,
+.section-mission-child2 {
+  position: absolute;
+  height: 1.7%;
+  width: 11.31%;
+  top: 14.16%;
+  right: 35.38%;
+  bottom: 84.13%;
+  left: 53.31%;
+  background-color: var(--color-lightblue);
+}
+.section-mission-child2 {
+  width: 16.6%;
+  top: 46.28%;
+  right: 69.91%;
+  bottom: 52.01%;
+  left: 13.49%;
+}
+.our-mission,
+.rectangle-parent6 {
+  position: absolute;
+  text-align: left;
+}
+.our-mission {
+  height: 9.37%;
+  width: 17.66%;
+  top: 40.02%;
+  left: 13.82%;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.01em;
+  line-height: 112.8%;
+  font-weight: 900;
+  display: inline-block;
+}
+.rectangle-parent6 {
+  top: 1099px;
+  left: 321px;
+  width: 230px;
+  height: 65px;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+}
+.may-4-5-2024 {
+  position: absolute;
+  height: 8.67%;
+  width: 45.63%;
+  top: 12.07%;
+  left: 27.18%;
+  font-size: 55px;
+  font-weight: 900;
+  display: inline-block;
+}
+.layer-1-icon5 {
+  position: absolute;
+  height: 10.14%;
+  width: 8.73%;
+  top: 36.15%;
+  right: 55.62%;
+  bottom: 53.72%;
+  left: 35.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 1099px;
+  left: 960px;
+  width: 230px;
+  height: 65px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+}
+.section-mission-child3 {
+  position: absolute;
+  height: 10.12%;
+  width: 98.21%;
+  top: 11.42%;
+  right: 0;
+  bottom: 78.45%;
+  left: 1.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.academic-and-industry-container1 {
+  position: absolute;
+  height: 8.44%;
+  width: 42.99%;
+  top: 77.94%;
+  left: 7.54%;
+  line-height: 102.8%;
+  font-weight: 900;
+  display: inline-block;
+}
+.section-mission {
+  position: absolute;
+  top: 966px;
+  left: 0;
+  width: 1512px;
+  height: 1292px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+}
+.frame-child30,
+.section-hero-child,
+.vector-icon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.section-hero-child {
+  height: 100%;
+  width: 85.86%;
+  top: 0;
+  right: 14.14%;
+  bottom: 0;
+  left: 0;
+  object-fit: cover;
+}
+.frame-child30,
+.vector-icon4 {
+  height: 6%;
+  width: 1.76%;
+  top: 2.28%;
+  right: 95.28%;
+  bottom: 91.71%;
+  left: 2.96%;
+}
+.frame-child30 {
+  height: 79.77%;
+  width: 11.52%;
+  top: 9.25%;
+  right: -0.19%;
+  bottom: 10.98%;
+  left: 88.67%;
+}
+.register-now5 {
+  position: absolute;
+  height: 100%;
+  width: 88.03%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-parent9 {
+  position: absolute;
+  top: 23.5px;
+  left: 30px;
+  width: 154.5px;
+  height: 17.3px;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 719px;
+  left: 110px;
+  width: 226px;
+  height: 65.4px;
+  color: var(--color-black);
+}
+.f-270031575-sn9wjjpi1bfdgcjkhx-icon {
+  position: absolute;
+  height: 76.46%;
+  width: 65.87%;
+  top: 12.86%;
+  right: 0;
+  bottom: 10.68%;
+  left: 34.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cardiac-interventions,
+.conference {
+  position: absolute;
+  height: 32.64%;
+  width: 56.79%;
+  top: 54.8%;
+  left: 6.25%;
+  font-size: var(--font-size-41xl);
+  font-weight: 900;
+  display: inline-block;
+}
+.cardiac-interventions {
+  top: 48.57%;
+  left: 6.36%;
+}
+.non-valvular-structural {
+  font-weight: 800;
+}
+.span36 {
+  font-weight: 900;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+}
+.non-valvular-structural-cardia-container {
+  position: absolute;
+  height: 12.17%;
+  width: 56.79%;
+  top: 42.33%;
+  left: 6.25%;
+  display: inline-block;
+  font-size: 53px;
+  color: var(--color);
+}
+.may-4-52024-university {
+  position: absolute;
+  height: 2.37%;
+  width: 56.79%;
+  top: 64%;
+  left: 7.33%;
+  font-size: 22px;
+  display: inline-block;
+}
+.frame-icon,
+.icons {
+  position: absolute;
+  height: 1.58%;
+  width: 0.8%;
+  top: 64.49%;
+  right: 93.07%;
+  bottom: 33.93%;
+  left: 6.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icons {
+  height: 1.78%;
+  width: 1.02%;
+  top: 64.29%;
+  right: 79.9%;
+  left: 19.08%;
+}
+.frame-child31 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-181xl);
+}
+.frame-child32 {
+  position: absolute;
+  height: 81.18%;
+  width: 13.47%;
+  top: 12.94%;
+  right: -0.13%;
+  bottom: 5.88%;
+  left: 86.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.learn-more1 {
+  position: absolute;
+  height: 100%;
+  width: 80.43%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-parent10 {
+  position: absolute;
+  top: 23px;
+  left: 44px;
+  width: 149.2px;
+  height: 17px;
+}
+.layer-1-icon6,
+.rectangle-parent9 {
+  position: absolute;
+  top: 718px;
+  left: 360px;
+  width: 230px;
+  height: 65.4px;
+}
+.layer-1-icon6 {
+  height: 8.9%;
+  width: 16.52%;
+  top: 3.96%;
+  right: 78.19%;
+  bottom: 87.14%;
+  left: 5.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.about-accommodation-registrati {
+  position: absolute;
+  height: 2.27%;
+  width: 28.9%;
+  top: 5.74%;
+  left: 34.47%;
+  font-weight: 500;
+  font-family: var(--font-saira);
+  display: inline-block;
+}
+.frame-child34 {
+  position: absolute;
+  height: 79.77%;
+  width: 11.37%;
+  top: 15.03%;
+  right: -0.19%;
+  bottom: 5.2%;
+  left: 88.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.register-now6 {
+  position: absolute;
+  height: 100%;
+  width: 86.9%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-parent11 {
+  position: absolute;
+  top: 23.5px;
+  left: 36px;
+  width: 156.5px;
+  height: 17.3px;
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 38px;
+  left: 1155px;
+  width: 228px;
+  height: 65.4px;
+  color: var(--color-black);
+}
+.isolation-mode-icon,
+.whitelogo-1-icon,
+.whitelogo-2-icon {
+  position: absolute;
+  height: 6.63%;
+  width: 3.07%;
+  top: 31.75%;
+  right: 76.21%;
+  bottom: 61.62%;
+  left: 20.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.whitelogo-1-icon,
+.whitelogo-2-icon {
+  height: 5.44%;
+  width: 9.6%;
+  top: 32.34%;
+  right: 62.18%;
+  bottom: 62.22%;
+  left: 28.22%;
+}
+.whitelogo-2-icon {
+  right: 84.04%;
+  left: 6.36%;
+}
+.section-hero {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1761px;
+  height: 1011px;
+  font-size: var(--font-size-mid);
+  color: var(--color-white);
+}
+.home-page-v1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 11259px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--body);
+  font-family: var(--font-work-sans);
+}

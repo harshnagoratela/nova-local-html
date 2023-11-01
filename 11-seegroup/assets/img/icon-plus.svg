@@ -1,0 +1,6 @@
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="icon-plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path d="M20,0 C31.045695,0 40,8.954305 40,20 C40,31.045695 31.045695,40 20,40 C8.954305,40 0,31.045695 0,20 C0,8.954305 8.954305,0 20,0 Z" id="circle" fill="#000000"></path>
+    <path d="M20.8883347,12 L20.8883347,19.5 L28.3883347,19.5 L28.3883347,20.5 L20.8883347,20.5 L20.8883347,28 L19.8883347,28 L19.8883347,20.5 L12.3883347,20.5 L12.3883347,19.5 L19.8883347,19.5 L19.8883347,12 L20.8883347,12 Z" id="icon" fill="#FFFFFF"></path>
+  </g>
+</svg>
