@@ -809,6 +809,49 @@ nav.navbar {
 
 /* Sponsor Section CSS End */
 
+/* Partners Section CSS Start */
+
+.partners-wrapper {
+  padding: 80px 0 0;
+}
+
+.partners-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 60px;
+  justify-items: center;
+}
+
+.partners-title {
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.partners-title h2 {
+  max-width: 343px;
+  margin: auto;
+  text-align: center;
+  position: relative;
+}
+
+.partners-title h2::after {
+  position: absolute;
+  content: "";
+  left: 50%;
+  bottom: 11px;
+  transform: translateX(-50%);
+  width: 306px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.partners-card {
+  text-align: center;
+}
+
+/* Partners Section CSS End */
+
 /* Main Part CSS End */
 
 /* Footer Section CSS Start */
