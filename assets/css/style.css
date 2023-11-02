@@ -232,7 +232,7 @@ nav.navbar {
 
   .navbar-nav {
     background: #0d354b;
-    padding: 20px 20px 50px;
+    padding: 20px 20px 50px! important;
   }
 
   .navbar.sticky .navbar-nav {
