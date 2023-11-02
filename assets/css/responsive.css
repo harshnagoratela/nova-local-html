@@ -1,0 +1,188 @@
+/* Min Width 1200px and Max Width 1399px */
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .hero-content h2 {
+    font-size: 48px;
+  }
+
+  .hero-content h1 {
+    font-size: 56px;
+  }
+}
+
+/* Min Width 992px and Max Width 1199px */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  h2.title {
+    font-size: 36px;
+  }
+
+  .hero-content h2 {
+    font-size: 41px;
+  }
+
+  .hero-content h1 {
+    font-size: 45px;
+  }
+
+  .our-mission-top h1 {
+    font-size: 42px;
+  }
+
+  .our-mission-top h1::after {
+    right: 47px;
+    width: 125px;
+  }
+
+  .our-mission-content h2::after {
+    width: 180px;
+  }
+
+  .our-mission-content {
+    padding: 80px 70px 50px;
+  }
+}
+
+/* Min Width 768px and Max Width 991px */
+
+@media (min-width: 768px) and (max-width: 991px) {
+  h2.title {
+    font-size: 36px;
+  }
+
+  .hero-content h2 {
+    font-size: 41px;
+  }
+
+  .hero-content h1 {
+    font-size: 45px;
+  }
+
+  .hero-img {
+    padding-top: 70px;
+    text-align: center;
+  }
+
+  .our-mission-top h1 {
+    font-size: 42px;
+  }
+
+  .our-mission-top h1::after {
+    right: 47px;
+    width: 125px;
+  }
+
+  .our-mission-content h2::after {
+    width: 180px;
+  }
+
+  .our-mission-content {
+    padding: 80px 70px 50px;
+    border-radius: 35px 35px 0 0;
+  }
+
+  .our-mission-img img {
+    border-radius: 0 0 35px 35px;
+  }
+
+  .read-more-icon {
+    max-width: 80px;
+    top: 40px;
+    right: 50px;
+  }
+}
+
+/* Min Width 300px and Max Width 767px */
+
+@media (min-width: 300px) and (max-width: 767px) {
+  .logo {
+    max-width: 180px;
+  }
+
+  .heart-icon {
+    display: none;
+  }
+
+  h2.title {
+    font-size: 28px;
+  }
+
+  .hero-wrapper {
+    padding: 200px 0 100px;
+  }
+
+  .hero-logos ul li {
+    padding-right: 20px;
+  }
+
+  .hero-content h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+  .hero-content h1 {
+    font-size: 36px;
+  }
+
+  .date h5,
+  .location h5 {
+    font-size: 15px;
+  }
+
+  .primary-btn a,
+  .hero-learn-btn a {
+    font-size: 15px;
+    display: block;
+    text-align: center;
+  }
+
+  .hero-img {
+    padding-top: 70px;
+    text-align: center;
+  }
+
+  .our-mission-top h1 {
+    font-size: 36px;
+  }
+
+  .our-mission-top h1::after {
+    right: 30px;
+    width: 100px;
+  }
+
+  .our-mission-top h3,
+  .mission-card h3 {
+    font-size: 24px;
+  }
+
+  .our-mission-content h2::after {
+    width: 140px;
+    bottom: 4px;
+  }
+
+  .our-mission-content {
+    padding: 50px 25px;
+    border-radius: 35px 35px 0 0;
+  }
+
+  .our-mission-img img {
+    border-radius: 0 0 35px 35px;
+  }
+
+  .mission-card h3::after {
+    left: 73px;
+    bottom: 26px;
+    width: 65px;
+  }
+
+  .read-more-icon {
+    max-width: 80px;
+    top: 30px;
+    right: 40px;
+  }
+
+  .speakers-title h2::after {
+    width: 170px;
+    top: 5px;
+  }
+}
