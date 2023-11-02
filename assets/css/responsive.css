@@ -97,6 +97,7 @@
 @media (min-width: 300px) and (max-width: 767px) {
   .logo {
     max-width: 180px;
+    padding-left: 10px;
   }
 
   .heart-icon {
@@ -151,7 +152,8 @@
   }
 
   .our-mission-top h3,
-  .mission-card h3 {
+  .mission-card h3,
+  .venue-card h3 {
     font-size: 24px;
   }
 
@@ -184,5 +186,43 @@
   .speakers-title h2::after {
     width: 170px;
     top: 5px;
+  }
+
+  .highlight-wrapper {
+    padding: 60px 0;
+  }
+
+  .highlight-content h2::after {
+    width: 175px;
+  }
+
+  .venue-registered-card h3,
+  .cardiologists-content h3 {
+    font-size: 20px;
+  }
+
+  .cardiologists-img,
+  .cardiologists-content,
+  .cardiologists-content h3 {
+    width: 100%;
+    margin-top: 0;
+  }
+
+  .venue-registered-card,
+  .venue-cardiologist-card {
+    padding: 40px 30px;
+  }
+
+  .cardiologists-img {
+    display: none;
+  }
+
+  .sponsor-title h2::after {
+    bottom: 5px;
+    width: 195px;
+  }
+
+  .spopnsor-container {
+    grid-template-columns: repeat(2, 1fr);
   }
 }

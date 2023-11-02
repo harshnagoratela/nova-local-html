@@ -1,7 +1,7 @@
 /* Base Style CSS Start */
 
 /* Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Saira:wght@300;400;500;600;700;800;900&family=Work+Sans:wght@300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Saira:wght@300;400;500;600;700;800&family=Work+Sans:wght@300;400;500;600;700;800;900&display=swap");
 
 /* Colors */
 
@@ -60,6 +60,7 @@ h2.title {
   font-weight: 900;
   line-height: 112.8%;
   letter-spacing: 0.5px;
+  text-transform: uppercase;
   color: var(--title);
 }
 
@@ -592,4 +593,296 @@ nav.navbar {
 
 /* Speakers Section CSS End */
 
+/* Highlight Section CSS Start */
+
+.highlight-wrapper {
+  background: #8eccdf;
+  padding: 120px 0 150px;
+}
+
+.highlight-content h2 {
+  position: relative;
+  z-index: 1;
+}
+
+.highlight-content h2::after {
+  position: absolute;
+  content: "";
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 280px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.highlight-content p {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding: 10px 0 40px;
+  color: var(--black);
+}
+
+/* Highlight Section CSS End */
+
+/* Venue Section CSS Start */
+
+.venue-wrapper {
+  padding: 120px 0 300px;
+  background: linear-gradient(
+    0deg,
+    rgba(142, 204, 223, 0.25) 15.69%,
+    rgba(142, 204, 223, 0) 126.25%
+  );
+}
+
+.venue-container {
+  padding-top: 60px;
+}
+
+.venue-card h3 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 102.8%;
+  padding-bottom: 5px;
+  margin-bottom: 30px;
+  color: var(--BODY, #003e67);
+  border-bottom: 1px solid #8eccdf;
+}
+
+.venue-card h3 span {
+  color: #4d748e;
+}
+
+.venue-card h6 {
+  font-family: "Saira", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-transform: uppercase;
+  color: var(--BODY, #003e67);
+  margin: 0;
+}
+
+.venue-card h6 span {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  color: var(--black);
+}
+
+.venue-card p {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  color: var(--black);
+  margin: 0;
+}
+
+.venue-cardiology-container {
+  position: relative;
+  margin-top: -150px;
+}
+
+.venue-cardiologist-card {
+  position: relative;
+  height: 100%;
+  background: #8eccdf;
+  border-radius: 12px;
+}
+
+.cardiologists-img,
+.cardiologists-content {
+  width: 50%;
+}
+
+.cardiologists-img {
+  margin-top: 38px;
+}
+
+.venue-registered-card {
+  height: 100%;
+  padding: 60px 80px 80px;
+  background: #8eccdf;
+  border-radius: 12px;
+}
+
+.venue-registered-card h3,
+.cardiologists-content h3 {
+  position: relative;
+  font-family: "Work Sans", sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 115.8%;
+  text-transform: uppercase;
+  color: var(--BODY, #003e67);
+  padding-bottom: 35px;
+  z-index: 1;
+}
+
+.cardiologists-content h3 {
+  margin-top: 60px;
+}
+
+.venue-registered-card h3::before,
+.cardiologists-content h3::after {
+  position: absolute;
+  content: "";
+  top: 2px;
+  left: -20px;
+  width: 219px;
+  height: 22px;
+  background: rgba(255, 255, 255, 0.5);
+  z-index: -1;
+}
+
+.venue-registered-card h3 span,
+.cardiologists-content h3 span {
+  color: var(--003, #4d748e);
+}
+
+/* Venue Section CSS End */
+
+/* Sponsor Section CSS Start */
+
+.sponsor-wrapper {
+  padding: 80px 0;
+}
+
+.spopnsor-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 60px;
+  justify-items: center;
+}
+
+.sponsor-title {
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.sponsor-title h2 {
+  max-width: 343px;
+  margin: auto;
+  text-align: center;
+  position: relative;
+}
+
+.sponsor-title h2::after {
+  position: absolute;
+  content: "";
+  left: 50%;
+  bottom: 11px;
+  transform: translateX(-50%);
+  width: 306px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.sponsor-card {
+  text-align: center;
+}
+
+.sponsor-content p {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 15px;
+  margin: 0;
+  color: var(--black);
+}
+
+/* Sponsor Section CSS End */
+
 /* Main Part CSS End */
+
+/* Footer Section CSS Start */
+
+.footer-wrapper {
+  background: #003e67;
+  padding: 80px 0 40px;
+}
+
+.footer-menu {
+  padding-top: 30px;
+}
+
+.footer-menu h6 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 102.8%;
+  margin-bottom: 12px;
+  color: var(--white);
+}
+
+.footer-menu h6 span {
+  color: var(--002, #8eccdf);
+}
+
+.footer-nav li a {
+  font-family: "Saira", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: var(--white);
+}
+
+.footer-bottom {
+  padding-top: 80px;
+}
+
+.footer-copyright p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  margin: 0;
+  color: var(--white);
+}
+
+.footer-navigation ul li {
+  padding-right: 5px;
+  color: var(--white);
+}
+
+.footer-navigation ul li a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  text-decoration: underline;
+  color: var(--white);
+}
+
+.footer-website span,
+.footer-website span a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  color: var(--white);
+}
+
+.footer-website span a {
+  text-decoration: underline;
+}
+
+/* Footer Section CSS End */
