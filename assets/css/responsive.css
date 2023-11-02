@@ -225,4 +225,13 @@
   .spopnsor-container {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .partners-title h2::after {
+    bottom: 5px;
+    width: 195px;
+  }
+
+  .partners-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
