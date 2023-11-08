@@ -1,0 +1,1004 @@
+/* Base Style CSS Start */
+
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Saira:wght@300;400;500;600;700;800&family=Work+Sans:wght@300;400;500;600;700;800;900&display=swap");
+
+/* Colors */
+
+:root {
+  --BODY: #003e67;
+  --002: #8eccdf;
+  --003: #4d748e;
+  --title: #003e67;
+  --white: #ffffff;
+  --black: #000000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Saira", sans-serif;
+  font-family: "Work Sans", sans-serif;
+  scroll-behavior: smooth;
+}
+
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: normal;
+  color: var(--white);
+}
+
+h2.title {
+  font-family: "Work Sans", sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 112.8%;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--title);
+}
+
+h2.title span {
+  color: var(--003, #4d748e);
+}
+
+.primary-btn a {
+  font-family: "Work Sans", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: var(--black);
+  background: var(--white);
+  padding: 24px 36px !important;
+  border-radius: 200px;
+}
+
+.primary-btn a img {
+  position: relative;
+  padding-left: 7px;
+  margin-top: -5px;
+}
+
+/* Base Style CSS End */
+
+/* Header Part CSS Start */
+
+/* Navigation Section CSS Start */
+
+nav.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 40px;
+  z-index: 999;
+}
+
+.navbar.sticky {
+  background: #113f65f0;
+  backdrop-filter: blur(20px);
+  padding: 10px 0;
+  -webkit-animation: sticky 1.2s;
+  animation: sticky 1.2s;
+  z-index: 999;
+}
+
+.navbar.sticky .heart-icon {
+  display: none;
+}
+
+@keyframes sticky {
+  from {
+    top: -100px;
+  }
+  to {
+    top: 0;
+  }
+}
+
+.heart-icon {
+  position: absolute;
+  left: -40px;
+  top: -20px;
+}
+
+.nav-link,
+.nav-link:hover {
+  font-family: "Saira", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: var(--white);
+  padding: 10px 20px !important;
+}
+
+.register-btn a,
+.register-btn a:hover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: var(--black);
+  background: var(--white);
+  padding: 24px 36px !important;
+  border-radius: 200px;
+}
+
+.register-btn a img {
+  padding-left: 5px;
+}
+
+.navbar-toggler {
+  border: 0 !important;
+  margin-top: -15px;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+.toggler-icon {
+  width: 25px;
+  height: 2px;
+  background-color: #e74c3c;
+  display: block;
+  transition: all 0.2s;
+}
+
+.middle-bar {
+  margin: 5px auto;
+}
+
+.navbar-toggler .top-bar {
+  transform: rotate(45deg);
+  transform-origin: 10% 10%;
+}
+
+.navbar-toggler .middle-bar {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.navbar-toggler .bottom-bar {
+  transform: rotate(-45deg);
+  transform-origin: 10% 90%;
+}
+
+.navbar-toggler.collapsed .top-bar {
+  transform: rotate(0);
+}
+
+.navbar-toggler.collapsed .middle-bar {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.navbar-toggler.collapsed .bottom-bar {
+  transform: rotate(0);
+}
+
+.navbar-toggler.collapsed .toggler-icon {
+  background-color: #ffffff;
+}
+
+.nav-buttons img {
+  width: 20px;
+}
+
+@media (max-width: 1200px) {
+  .navbar .container {
+    padding: 0;
+  }
+
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+
+  .navbar-nav {
+    background: #0d354b;
+    padding: 20px 20px 110px !important;
+  }
+
+  .navbar.sticky .navbar-nav {
+    padding: 20px 0;
+  }
+
+  .nav-link {
+    font-size: 16px;
+    padding: 10px 0 !important;
+  }
+
+  .register-btn {
+    position: relative;
+    margin-top: -105px;
+    padding: 0 20px;
+  }
+}
+
+/* Navigation Section CSS End */
+
+/* Hero Section CSS Start */
+
+.about-hero-wrapper {
+  background: linear-gradient(268deg, #00416c 20.43%, #008fe0 204.33%);
+  padding: 280px 0 150px;
+  border-radius: 0 0 30px 30px;
+}
+
+.about-hero-title h1 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 53px;
+  font-weight: 900;
+  line-height: normal;
+  color: var(--white);
+}
+
+.about-hero-title h1 span {
+  color: var(--002, #8eccdf);
+}
+
+/* Main Part CSS Start */
+
+/* About Accommodation Section CSS Start */
+
+.about-accommodation-wrapper {
+  padding: 100px 0 70px;
+}
+
+.about-accommodation-top {
+  max-width: 690px;
+  margin: auto;
+  text-align: center;
+}
+
+.about-accommodation-top h2 {
+  position: relative;
+  max-width: 490px;
+  margin: 0 auto 40px;
+}
+
+.about-accommodation-top h2::after {
+  position: absolute;
+  content: "";
+  left: 50%;
+  bottom: 11px;
+  transform: translate(-50%);
+  width: 497px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.about-accommodation-top p {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  color: var(--BODY, #003e67);
+}
+
+.about-accommodation-card {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.about-accommodation-card h6 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 121.3%;
+  color: var(--BODY, #003e67);
+  margin-bottom: 20px;
+}
+
+.about-ac-img,
+.about-ac-img img {
+  position: relative;
+  width: 100%;
+  max-height: 250px;
+  height: 100%;
+}
+
+.about-ac-img::after {
+  position: absolute;
+  content: "";
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 90%;
+  background: linear-gradient(1deg, #000 -5.69%, rgba(0, 0, 0, 0) 39.37%);
+}
+
+/* About Accommodation Section CSS End */
+
+/* About Story Section CSS Start */
+
+.about-story-wrapper {
+  background: var(--002, #8eccdf);
+  padding: 110px 0;
+}
+
+.about-story-img,
+.about-story-img img {
+  max-width: 560px;
+  width: 100%;
+  max-height: 350px;
+  height: 100%;
+}
+
+.about-story-content h2 {
+  position: relative;
+  max-width: 303px;
+  margin-bottom: 30px;
+  z-index: 1;
+}
+
+.about-story-content h2::after {
+  position: absolute;
+  content: "";
+  right: 0;
+  bottom: 11px;
+  width: 190px;
+  height: 19px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.about-story-content h6 {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  color: var(--BODY, #003e67);
+  margin-bottom: 0;
+}
+
+.about-story-content p {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  color: var(--BODY, #003e67);
+}
+
+.about-story-shape {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+/* About Story Section CSS End */
+
+/* Team Section CSS Start */
+
+.team-wrapper {
+  padding: 120px 0 130px;
+}
+
+.team-wrapper::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70%;
+  background: linear-gradient(
+    359deg,
+    rgba(142, 204, 223, 0.25) 16.06%,
+    rgba(142, 204, 223, 0) 103.41%
+  );
+  z-index: -1;
+}
+
+.team-title {
+  position: relative;
+  max-width: 568px;
+  margin: 0 auto 60px;
+  text-align: center;
+}
+
+.team-title::after {
+  position: absolute;
+  content: "";
+  right: -10px;
+  bottom: 11px;
+  width: 166px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.team-card {
+  padding-top: 70px;
+}
+
+.team-second-col {
+  position: relative;
+  margin-top: -50px;
+}
+
+.team-card-img,
+.team-card-img img {
+  max-width: 360px;
+  width: 100%;
+  max-height: 390px;
+  height: 100%;
+}
+
+.team-card-img::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(1deg, #000 -4.44%, rgba(0, 0, 0, 0) 40.62%);
+}
+
+.team-card-content {
+  position: absolute;
+  left: 48px;
+  bottom: 20px;
+  z-index: 1;
+}
+
+.team-card-content h6 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 900;
+  margin-bottom: 0;
+  color: var(--white);
+}
+
+.team-card-content span {
+  font-family: "Saira", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  text-transform: uppercase;
+  color: var(--white);
+}
+
+/* Team Section CSS End */
+
+/* About Register Section CSS Start */
+
+.about-register-top {
+  max-width: 690px;
+  margin: auto;
+  text-align: center;
+}
+
+.about-register-top h2 {
+  position: relative;
+  max-width: 407px;
+  margin: 0 auto 40px;
+}
+
+.about-register-top h2::after {
+  position: absolute;
+  content: "";
+  right: -10px;
+  bottom: 11px;
+  width: 166px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.about-register-top p {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  color: var(--BODY, #003e67);
+}
+
+.about-register-container {
+  max-width: 615px;
+  margin: auto;
+}
+
+.about-register-card {
+  position: relative;
+  max-width: 292px;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0px 4px 19px 0px rgba(142, 142, 142, 0.25);
+}
+
+.arc-top h3 {
+  position: relative;
+  font-family: "Work Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  line-height: normal;
+  padding: 33px 30px;
+  color: var(--BODY, #003e67);
+  border-bottom: 1px dashed #8eccdf;
+  z-index: 1;
+}
+
+.arc-top h3 span {
+  color: var(--003, #4d748e);
+}
+
+.arc-top h3::after {
+  position: absolute;
+  content: "";
+  right: 26px;
+  bottom: 40px;
+  width: 99px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.arc-content {
+  padding: 30px 20px 100px;
+  text-align: center;
+}
+
+.arc-content h6 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 115.8%;
+  text-transform: uppercase;
+  color: var(--002);
+  margin-bottom: 15px;
+}
+
+.arc-content span {
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 115.8%;
+  text-transform: uppercase;
+  color: var(--BODY, #003e67);
+}
+
+.arc-btn {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+.arc-btn a {
+  display: block;
+  width: 100%;
+  color: #000;
+  font-family: "Work Sans", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  text-align: center;
+  padding: 20px 0;
+  background: var(--002, #8eccdf);
+}
+
+.arc-btn a img {
+  padding-left: 5px;
+  margin-top: -5px;
+}
+
+/* About Register Section CSS End */
+
+/* What's Included Section CSS Start */
+
+.included-wrapper {
+  background: var(--002);
+  padding: 120px 0;
+  margin-top: 110px;
+}
+
+.included-title {
+  max-width: 493px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.included-title h2 {
+  position: relative;
+  z-index: 1;
+}
+
+.included-title h2::after {
+  position: absolute;
+  content: "";
+  right: 0;
+  bottom: 11px;
+  width: 263px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.included-content {
+  max-width: 440px;
+  margin: auto;
+}
+
+.included-content h6 {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 15px;
+  color: var(--BODY, #003e67);
+}
+
+.included-content ul li {
+  position: relative;
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  padding: 2px 0 2px 20px;
+  color: var(--title);
+}
+
+.included-content ul li::after {
+  position: absolute;
+  content: "";
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 6px;
+  height: 6px;
+  background: var(--white);
+  border-radius: 100%;
+}
+
+.included-shape {
+  position: absolute;
+  left: 0;
+  top: 150px;
+}
+
+/* What's Included Section CSS End */
+
+/* Get In Touch Section CSS Start */
+
+.git-wrapper {
+  padding: 100px 0 120px;
+}
+
+.git-top {
+  max-width: 595px;
+  margin: auto;
+  text-align: center;
+}
+
+.git-top h2 {
+  position: relative;
+  width: 380px;
+  margin: 0 auto 40px;
+}
+
+.git-top h2::after {
+  position: absolute;
+  content: "";
+  right: 0;
+  bottom: 11px;
+  width: 197px;
+  height: 22px;
+  background: #cbebfd;
+  z-index: -1;
+}
+
+.git-top p {
+  font-family: "Saira", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: normal;
+  color: var(--BODY, #003e67);
+}
+
+.git-form {
+  max-width: 555px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.git-form-field {
+  display: flex;
+  padding-bottom: 20px;
+  margin-bottom: 24px;
+  border-bottom: 2px solid #8eccdf;
+}
+
+.git-form-field label {
+  display: block;
+  max-width: 35%;
+  width: 100%;
+  font-family: "Work Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: var(--BODY, #003e67);
+}
+
+.git-form-field label span,
+.follow-btn button span {
+  color: #4d748e;
+}
+
+.git-form-field input {
+  max-width: 65%;
+  width: 100%;
+  background: transparent;
+  border: none;
+}
+
+.git-form-field input:focus {
+  outline: 0;
+}
+
+.git-form ::placeholder {
+  font-family: "Saira", sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--BODY, #003e67);
+}
+
+.follow-btn button {
+  font-family: "Work Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: var(--BODY, #003e67);
+  background: transparent;
+  border: none;
+}
+
+.git-shape {
+  position: absolute;
+  right: 0;
+  bottom: -200px;
+}
+
+/* Get In Touch Section CSS End */
+
+/* Main Part CSS End */
+
+/* Footer Section CSS Start */
+
+.footer-wrapper {
+  background: var(--BODY);
+  padding: 80px 0 40px;
+}
+
+.footer-menu {
+  padding-top: 30px;
+}
+
+.footer-menu h6 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 102.8%;
+  margin-bottom: 12px;
+  color: var(--white);
+}
+
+.footer-menu h6 span {
+  color: var(--002, #8eccdf);
+}
+
+.footer-nav li a {
+  font-family: "Saira", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: var(--white);
+}
+
+.footer-bottom {
+  padding-top: 80px;
+}
+
+.footer-copyright p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  margin: 0;
+  color: var(--white);
+}
+
+.footer-navigation ul li {
+  padding-right: 5px;
+  color: var(--white);
+}
+
+.footer-navigation ul li a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  text-decoration: underline;
+  color: var(--white);
+}
+
+.footer-website span,
+.footer-website span a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  color: var(--white);
+}
+
+.footer-website span a {
+  text-decoration: underline;
+}
+
+.footer-icon {
+  position: relative;
+  z-index: 2;
+}
+
+/* Footer Section CSS End */
+
+/* Min Width 1200px and Max Width 1399px */
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .about-story-content {
+    padding-left: 50px;
+  }
+}
+
+/* Min Width 300px and Max Width 767px */
+
+@media (min-width: 300px) and (max-width: 767px) {
+  .about-hero-wrapper {
+    padding: 180px 0 80px;
+  }
+
+  .about-hero-title h1 {
+    font-size: 36px;
+  }
+
+  .about-accommodation-wrapper {
+    overflow: hidden;
+  }
+
+  .about-accommodation-top h2::after {
+    bottom: 5px;
+    width: 285px;
+  }
+
+  .about-accommodation-card {
+    margin-top: 50px;
+  }
+
+  .about-story-wrapper,
+  .team-wrapper,
+  .git-wrapper {
+    padding: 60px 0;
+    overflow: hidden;
+  }
+
+  .about-story-content,
+  .team-card {
+    padding-top: 50px;
+  }
+
+  .about-story-content h2 {
+    width: 185px;
+  }
+
+  .about-story-content h2::after {
+    bottom: 6px;
+    width: 120px;
+  }
+
+  .about-story-shape,
+  .included-shape,
+  .git-shape {
+    display: none;
+  }
+
+  .team-title {
+    max-width: 325px;
+    margin: 0 auto;
+  }
+
+  .team-title::after {
+    bottom: 6px;
+    width: 104px;
+  }
+
+  .team-second-col {
+    margin-top: 0;
+  }
+
+  .about-register-top h2 {
+    max-width: 235px;
+  }
+
+  .about-register-top h2::after {
+    bottom: 6px;
+    width: 90px;
+  }
+
+  .about-register-card {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+
+  .arc-top h3 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .arc-top h3::after {
+    right: 65px;
+    bottom: 37px;
+    width: 85px;
+  }
+
+  .included-wrapper {
+    padding: 60px 0;
+    margin-top: 60px;
+  }
+
+  .included-title {
+    max-width: 290px;
+  }
+
+  .included-title h2::after {
+    bottom: 6px;
+    width: 166px;
+  }
+
+  .git-top h2 {
+    width: 235px;
+  }
+
+  .git-top h2::after {
+    bottom: 6px;
+    width: 125px;
+  }
+
+  .git-form-field label,
+  .follow-btn button {
+    font-size: 24px;
+  }
+}
