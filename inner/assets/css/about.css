@@ -259,6 +259,7 @@ nav.navbar {
   background: linear-gradient(268deg, #00416c 20.43%, #008fe0 204.33%);
   padding: 280px 0 150px;
   border-radius: 0 0 30px 30px;
+  z-index: 1;
 }
 
 .about-hero-title h1 {
@@ -271,6 +272,18 @@ nav.navbar {
 
 .about-hero-title h1 span {
   color: var(--002, #8eccdf);
+}
+
+.about-hero-shape {
+  position: absolute;
+  right: 0;
+  bottom: 147px;
+  z-index: -1;
+}
+
+.about-hero-shape img {
+  width: 85%;
+  float: right;
 }
 
 /* Main Part CSS Start */
@@ -882,6 +895,15 @@ nav.navbar {
   .about-story-content {
     padding-left: 50px;
   }
+
+  .about-hero-shape {
+    bottom: 160px;
+  }
+
+  .about-hero-shape img {
+    width: 72%;
+    float: right;
+  }
 }
 
 /* Min Width 300px and Max Width 767px */
@@ -893,6 +915,15 @@ nav.navbar {
 
   .about-hero-title h1 {
     font-size: 36px;
+  }
+
+  .about-hero-shape {
+    bottom: 102px;
+  }
+
+  .about-hero-shape img {
+    width: 55%;
+    float: right;
   }
 
   .about-accommodation-wrapper {
